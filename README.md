@@ -1,5 +1,3 @@
-# Richie
-
  <body>
  
  <div id="media">
